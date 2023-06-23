@@ -1,0 +1,20 @@
+-> we sue antd for building components. to change the style of components we use 'THEME' concept.
+-> we use tailwind css for styling.
+-> install npm i --save axios react-router-dom redux react-redux @reduxjs/toolkit moment
+
+-> make Register Page
+-> make login Page 
+
+->make database
+
+-> MongoDB
+username - shivamangal092
+pass - G4A9vV85pVkhNPIF
+
+User- 
+SMP
+Smp@123
+
+github: - https://github.com/sathyaprakash195/sheymp-udemy
+
+21/06/23 : - 2:54:00 end till now
